@@ -39,6 +39,29 @@
         "name":"nike zoom 2025" ,
         "price": 120	
     }
+    ,
+
+    {
+        "id": 7,
+        "image": "src/image/nike grils 1.png",
+        "name":"nike 2015" ,
+        "price": 250
+    }
+    ,
+    {
+        "id": 8,
+        "image": "src/image/nike grils2.png",
+        "name":"nike 2022" ,
+        "price": 502	
+    }
+    ,
+    {
+        "id": 9,
+        "image": "src/image/nike grils 3.png",
+        "name":"nike zoom 2025" ,
+        "price": 120	
+    }
+    
     
 
 ]

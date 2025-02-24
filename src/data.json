@@ -1,0 +1,44 @@
+[
+    {
+        "id": 1,
+        "image": "src/image/nike 2.png",
+        "name": "nike akira",
+        "price":130
+    },
+    {
+        "id": 2,
+        "image":"src/image/nike 3.png",
+        "name":"nike zoom " ,
+        "price": 330
+    }
+    ,
+    {
+        "id": 3,
+        "image": "src/image/nike 4.png",
+        "name":"nike 2025" ,
+        "price":200
+    }
+    ,
+    {
+        "id": 4,
+        "image": "src/image/nike 5.webp",
+        "name":"nike 2015" ,
+        "price": 250
+    }
+    ,
+    {
+        "id": 5,
+        "image": "src/image/nike 6.webp",
+        "name":"nike 2022" ,
+        "price": 502	
+    }
+    ,
+    {
+        "id": 6,
+        "image": "src/image/nike 1.png",
+        "name":"nike zoom 2025" ,
+        "price": 120	
+    }
+    
+
+]

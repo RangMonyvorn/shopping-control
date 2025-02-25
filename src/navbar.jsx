@@ -8,6 +8,8 @@ function Navbar({ cart, cartcount, decreaseqty, increaseqty,calculateTotalPrice 
     setShowCart(!showCart);
   };
 
+  
+
   return (
     <>
       <nav>
@@ -19,8 +21,6 @@ function Navbar({ cart, cartcount, decreaseqty, increaseqty,calculateTotalPrice 
           </div>
         </div>
       </nav>
-
-
 
 
 

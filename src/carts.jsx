@@ -5,6 +5,7 @@ function carts({item , addtocart}) {
 
 
 const {id, name, price, image} = item;
+
   return (
     <>
        <div className="carts">

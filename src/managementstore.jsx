@@ -45,6 +45,7 @@ function ManagementStore() {
     );
   };
 
+
   const calculateTotalQuantity = () => {
     return cart.reduce((total, product) => total + product.qty, 0);
   };
@@ -54,6 +55,11 @@ function ManagementStore() {
   const calculateTotalPrice = () => {
     return cart.reduce((total, product) => total + product.price * product.qty, 0);
   };
+
+
+
+  
+
 
 
   return (

@@ -1,3 +1,4 @@
+
 [
     {
         "id": 1,
@@ -35,7 +36,7 @@
     ,
     {
         "id": 6,
-        "image": "src/image/nike 1.png",
+        "image": "src/image/nike1.png",
         "name":"nike zoom 2025" ,
         "price": 120	
     }
